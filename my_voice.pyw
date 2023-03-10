@@ -2,7 +2,7 @@
 """
 автор программы: Султанов Искандер (BigIskander@gmail.com)
 подробнее о программе:
-https://iskandersultanov.wordpress.com/my_voice/
+https://bigiskander.github.io/2023/03/01/fayin.html
 """
 #импортируем нужные библиотеки
 import os
